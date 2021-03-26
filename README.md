@@ -19,9 +19,9 @@ The program assumes that every input is correct, so it does not perform any erro
 
 An example run of the program might look like the following, with the values of hand followed by the string that evaluate(hand) returns:
 
-Qs7s2s4s5s - flush 
-7h8hKsTs8s - pair 
-2h4d2d4s4c - full house 
-KsKhKc8sKd - four of a kind 
-3s9hTh9s9d - three of a kind
-2s8hThQs9d - Q high
+Qs7s2s4s5s - flush /n
+7h8hKsTs8s - pair /n
+2h4d2d4s4c - full house /n
+KsKhKc8sKd - four of a kind /n
+3s9hTh9s9d - three of a kind /n
+2s8hThQs9d - Q high /n
